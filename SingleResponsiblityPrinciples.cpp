@@ -1,3 +1,9 @@
+/*Responsibility is considered to be one reason to change.
+Algorithm
+1. Single class gets Multiple Reasons to change ? okay we have to split it multiple class.
+2. Follow 1 until we get one reason to change for each class
+*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -38,3 +44,4 @@ int main(){
 
     return 0;
 }
+
